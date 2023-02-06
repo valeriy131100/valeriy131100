@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/foxburgerking">Valery</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer</h3>
+<h3 align="center">Currently work at <a href="https://samolet.ru">Samolet</a></h3>
 <br>
 
 <img src="https://pfps.gg/assets/banners/1617-shirakami-fubuki-banner.gif" height="90"/>
